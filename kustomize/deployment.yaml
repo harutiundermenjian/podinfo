@@ -71,4 +71,4 @@ spec:
             memory: 512Mi
           requests:
             cpu: 50m
-            memory: 64Mi
+            memory: 32Mi
